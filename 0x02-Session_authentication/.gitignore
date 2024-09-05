@@ -1,0 +1,31 @@
+# Operating system generated files
+/node_modules/
+/.vscode/
+/.idea/
+/build/
+/dist/
+
+# Compiled assets
+/bin/
+/obj/
+
+# Temporary files
+/tmp/
+*.swp
+*.bak
+
+# Sensitive data
+/secrets/
+/config.json
+
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
